@@ -13,7 +13,7 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" margin="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
   <img align="center" height="30" margin="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-  <img align="center" height="30" margin-right="20px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/nextjs.png">
+  <img align="center" height="30" margin-left="20px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/nextjs.png">
   
 
 </div>
